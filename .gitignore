@@ -1,0 +1,10 @@
+._*
+.*
+!.gitignore
+!.github
+__pycache__
+*.pyc
+logs
+*.log
+build
+dist
